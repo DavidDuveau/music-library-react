@@ -1,6 +1,8 @@
-Objectif : Réaliser une application de bibliothèque musicale. Bien sûr, on ne parle pas d'ici d'une application d'écoute, mais juste de référencement d'artistes et leur discographie.
+Objectif : Réaliser une application de bibliothèque musicale. 
+Bien sûr, on ne parle pas d'ici d'une application d'écoute, 
+mais juste de référencement d'artistes et leur discographie.
 
-Comment ?
+Comment ? 
 - En créant une nouvelle app et en modifiant les fichiers du dossier src, 
 	comme on l'a vu pendant les cours (pas besoin de modifier les autres fichiers). 
 	Vous devrez me rendre à la fin de la journée un zip de ce dossier.
