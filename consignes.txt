@@ -1,0 +1,37 @@
+Objectif : Réaliser une application de bibliothèque musicale. Bien sûr, on ne parle pas d'ici d'une application d'écoute, mais juste de référencement d'artistes et leur discographie.
+
+Comment ?
+- En créant une nouvelle app et en modifiant les fichiers du dossier src, 
+	comme on l'a vu pendant les cours (pas besoin de modifier les autres fichiers). 
+	Vous devrez me rendre à la fin de la journée un zip de ce dossier.
+
+- Vous pouvez vous servir des apps réalisées jusque là et d'internet. 
+	Par contre, ne travaillez pas en groupe, pas d'entre-aide. 
+	Le but est de voir ce que chacun a compris ou non durant les cours.
+
+- L'exercice est divisé en plusieurs étapes. 
+	Ne passez à l'étape suivante que si l'étape courante est bien finalisée 
+	(pour vous assurer de rendre quelque chose de fonctionnel, 
+	créez le zip à chaque fin d'étape).
+
+- Découpez votre app en plusieurs composants si c'est utile.
+- Vous pouvez faire du CSS, mais ce qui m'intéresse ici, c'est le React. 
+	Donc ne perdez pas de temps avec ça. 
+	Je veux quelque chose de fonctionnel, pas d'esthétique.
+
+Les étapes :
+1. Gestion des artistes :
+    - Un artiste est défini par plusieurs données : un nom, une description et une liste d'album 
+	(si vous vous en sentez capable vous pouvez aussi ajouter une image de profil)
+    - Afficher la liste des artistes
+    - Pouvoir ajouter et supprimer un artiste
+
+2. Gestion des albums :
+    - Un album est défini par plusieurs données : un nom, une date de sortie et la durée d'écoute (en minutes)
+    - Pour chaque artiste, pouvoir afficher la liste de ses albums
+    - Pouvoir ajouter et supprimer un album
+
+3. Gestion des titres :
+    - Un titre est défini par plusieurs données : un nom et une durée d'écoute (en minute)
+    - Pour chaque album, pouvoir afficher la liste de ses titres
+    - Pouvoir ajouter et supprimer un titre
